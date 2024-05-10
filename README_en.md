@@ -30,7 +30,7 @@ Please synchronous deployment [stable-diffusion-webui](https://github.com/Akegar
 [video address](https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.788.0.0&vd_source=38a6ca096c69b42b176bdfa0ab4e928c)
 
 ### Run procedure
-![Step guide video](resources/cacf1.mp4)
+[Step guide video](https://pan.baidu.com/s/1_uIHpWqM_W0etLIxntp2Ng?pwd=f7db)
 
 
 -----
