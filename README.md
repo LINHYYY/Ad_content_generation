@@ -30,7 +30,7 @@ Ad_content_generation 是一个基于 ChatGLM-6B 和 Stable Diffusion 制作的�
 请同步部署[stable-diffusion-webui](https://github.com/Akegarasu/stable-diffusion-webui),这里更推荐下载[整合包](https://pan.quark.cn/s/2c832199b09b) [视频地址](https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.788.0.0&vd_source=38a6ca096c69b42b176bdfa0ab4e928c)
 
 ### 运行步骤
-<video src="resources/cacf1.mp4" controls="controls" width="800" height="600"></video>
+[演示视频](https://pan.baidu.com/s/1_uIHpWqM_W0etLIxntp2Ng?pwd=f7db)
 
 -----
 ## 运行展示
