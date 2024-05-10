@@ -10,6 +10,7 @@ Ad_content_generation 是一个基于 ChatGLM-6B 和 Stable Diffusion 制作的�
 项目使用了模板和生成式的方法相结合的策略，引入了 Lora 光影优化模型(add_detail)和 Embeddings 的处理，通过预设引导对话模型话术及优化性提示词来优化生成的图像质量，预防负面图像的生成。
 
 当然这一工作流场景并不局限，项目仍也有许多可以提升的空间和后期计划，比如在本作品工作流上引入 Sora，拓展文生图生视频的模式，进一步完善 AI 广告内容的创作工作流；在本作品模式上寻求其他应用场景的微调训练，例如服装设计、家装设计等。通过使用不同场景下的数据集进行微调训练，可以帮助更多非专业人员在自己的工作领域中使用 AIGC 工具辅助工作。希望可以带动更多的多模态模型在特定场景下的应用开发。
+
 -----
 
 ## 使用方式
@@ -29,7 +30,7 @@ Ad_content_generation 是一个基于 ChatGLM-6B 和 Stable Diffusion 制作的�
 请同步部署[stable-diffusion-webui](https://github.com/Akegarasu/stable-diffusion-webui),这里更推荐下载[整合包](https://pan.quark.cn/s/2c832199b09b) [视频地址](https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.788.0.0&vd_source=38a6ca096c69b42b176bdfa0ab4e928c)
 
 ### 运行步骤
-![步骤指引视频](resources/cacf1.mp4)
+<video src="resources/cacf1.mp4" autoplay="true" controls="controls" width="800" height="600">
 
 
 -----
