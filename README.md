@@ -56,3 +56,4 @@ Ad_content_generation 是一个基于 ChatGLM-6B 和 Stable Diffusion 制作的�
 - [LemonQu-GIT/ChatGLM-6B-Engineering](https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering)
 - [Akegarasu/stable-diffusion-webui](https://github.com/Akegarasu/stable-diffusion-webui)
 - [AdvertiseGen广告文案生成数据集](https://www.luge.ai/#/luge/dataDetail?id=9)
+- [ChatGLM+StableDiffusion整合包](https://www.bilibili.com/video/BV1Wa4y1V77o/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=38a6ca096c69b42b176bdfa0ab4e928c)
