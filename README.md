@@ -2,12 +2,11 @@
 
 ## introduce
 
-Ad_content_generation is a local deployment workflow of content generation for new media marketing advertising based on ChatGLM-6B and Stable Diffusion. The ChatGLM-6B fine-tuning model from the AdvertiseGen dataset generates advertising marketing copy and processes the copy as a Stable Diffusion prompt that will be output with the advertisement by listening to the local Stable Diffusion port.
+   Ad_content_generation is a local deployment workflow of content generation for new media marketing advertising based on ChatGLM-6B and Stable Diffusion. The ChatGLM-6B fine-tuning model from the AdvertiseGen dataset generates advertising marketing copy and processes the copy as a Stable Diffusion prompt that will be output with the advertisement by listening to the local Stable Diffusion port.
 
-The project uses the strategy of combining the template and generative methods, and introduces the Lora shadow optimization model (add_detail) and Embeddings to optimize the quality of the generated image and prevent the generation of negative images through the pre-set guided dialogue model and optimized prompt words.
+   The project uses the strategy of combining the template and generative methods, and introduces the Lora shadow optimization model (add_detail) and Embeddings to optimize the quality of the generated image and prevent the generation of negative images through the pre-set guided dialogue model and optimized prompt words.
+   Of course, this workflow scenario is not limited, and the project still has a lot of room for improvement and later plans, such as introducing Sora in the workflow of this work, expanding the mode of Vincenne Tucson video, and further improving the creation workflow of AI advertising content. Seek fine-tuning training for other application scenarios in this work mode, such as clothing design, home improvement design, etc. Fine-tuning training with data sets in different scenarios can help more non-specialists use AIGC tools in their own areas of work. It is hoped that it can promote the application development of more multimodal models in specific scenarios.
 
-Of course, this workflow scenario is not limited, and the project still has a lot of room for improvement and later plans, such as introducing Sora in the workflow of this work, expanding the mode of Vincenne Tucson video, and further improving the creation workflow of AI advertising content. Seek fine-tuning training for other application scenarios in this work mode, such as clothing design, home improvement design, etc. Fine-tuning training with data sets in different scenarios can help more non-specialists use AIGC tools in their own areas of work. It is hoped that it can promote the application development of more multimodal models in specific scenarios.
------
 
 ## Mode of use
 
